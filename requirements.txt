@@ -1,0 +1,7 @@
+requests
+jupyter
+geopandas
+matplotlib
+folium
+mapclassify
+openpyxl
